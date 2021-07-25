@@ -14,17 +14,5 @@ Atualmente estudando sobre .NET e SQL Server, tenho como objetivo ser desenvolve
 
 Atualmente tenho conhecimentos em:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="csharp" width="40" heigth="40" style="max-width:100%";></img>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="csharp" width="40" heigth="40" style="max-width:100%";></img>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="csharp" width="40" heigth="40" style="max-width:100%";></img>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="csharp" width="40" heigth="40" style="max-width:100%";></img>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="csharp" width="40" heigth="40" style="max-width:100%";></img>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="csharp" width="40" heigth="40" style="max-width:100%";></img>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="csharp" width="40" heigth="40" style="max-width:100%";></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="csharp" width="40" heigth="40" style="max-width:100%"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" heigth="40" style="max-width:100%"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" heigth="40" style="max-width:100%"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" heigth="40" style="max-width:100%"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" heigth="40" style="max-width:100%"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" heigth="40" style="max-width:100%"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobexd" width="40" heigth="40" style="max-width:100%"></img>
 
